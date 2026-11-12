@@ -1,0 +1,8 @@
+модель,T→I R@1,T→I R@5,T→I R@10,I→T R@1,I→T R@5,I→T R@10
+BLIP-ITM (COCO) zero-shot [ITC],2.8,7.6,11.6,3.2,9.4,13.4
+мини-BLIP (Flickr) zero-shot [ITC],0.0,0.8,1.2,0.2,0.8,2.0
+мини-BLIP (Flickr) zero-shot [ITM],0.0,1.2,2.6,0.2,1.0,2.0
+мини-BLIP Flickr→ROCO [ITC],3.2,16.0,24.0,4.2,15.6,23.6
+мини-BLIP Flickr→ROCO [ITM],2.8,13.0,23.8,2.2,12.4,25.0
+мини-BLIP init→ROCO [ITC],3.2,14.8,24.6,3.2,14.4,24.0
+мини-BLIP init→ROCO [ITM],3.0,12.6,23.2,2.4,13.0,23.6

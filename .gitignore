@@ -1,0 +1,14 @@
+# окружение
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# данные и чекпоинты (большие, скачиваются/обучаются заново)
+blip_mini*/
+data/
+checkpoints/
+*.pth
+*.pt
+*.tar
+*.zip
